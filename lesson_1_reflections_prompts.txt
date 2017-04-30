@@ -1,7 +1,7 @@
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
-    	This
+    This
 
 How could having easy access to the entire history of a file make you a more
 efficient programmer in the long term?
@@ -30,5 +30,5 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    boring
+    boring so ill temetoelpito
     
